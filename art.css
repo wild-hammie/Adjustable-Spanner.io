@@ -1,0 +1,18 @@
+.card{
+    /* From https://css.glass */
+    background: rgba(255, 175, 225, 0.2);
+    border-radius: 4px;
+    box-shadow: 0 4px 30px rgba(119, 88, 165, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(102, 165, 2578, 0.3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-top: 3px #839958 solid;
+}
+img{
+    border-radius: 5px;
+    border: #F6C45C solid 2px;
+}

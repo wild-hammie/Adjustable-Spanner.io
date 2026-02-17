@@ -1,0 +1,12 @@
+.card{
+    background: rgba(190, 150, 255, 0.2);
+    border: 1px solid rgba(140, 90, 255, 0.3);
+    border-top: 3px #8A5CFF solid;
+}
+
+img{
+    border: #D7C6FF solid 2px;
+}
+body{
+    background-color: #ff8aef;
+}
